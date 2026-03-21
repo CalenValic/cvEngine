@@ -1,0 +1,19 @@
+{
+    "skeleton": "testSkeleton",
+    "meshCollections": [
+        {
+            "meshes": [
+                {
+                    "shaderFlags": 0,
+                    "mesh": "quadMesh",
+                    "texture": "transparentTexture",
+                    "nodeIndex": 0,
+                    "offset": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                    "hitboxes": [
+                        [0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0.1]
+                    ]
+                }
+            ]
+        }
+    ]
+}
