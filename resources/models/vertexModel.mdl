@@ -1,0 +1,24 @@
+{
+    "transformNodes": [
+        {
+            "children": [],
+            "inverseBindPose": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+        }
+    ],
+    "meshCollections": [
+        {
+            "meshes": [
+                {
+                    "shaderFlags": 0,
+                    "mesh": "cubeMesh",
+                    "texture": "transparentTexture",
+                    "nodeIndex": 0,
+                    "offset": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                    "hitboxes": [
+                        [0, 0, 0, -2, 1, 0, 0, 0, 2, 2, 4]
+                    ]
+                }
+            ]
+        }
+    ]
+}
